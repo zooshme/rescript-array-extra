@@ -1,0 +1,14 @@
+{
+  "name": "@zooshme/rescript-option-extra",
+  "version": "0.0.1",
+  "scripts": {
+    "res:build": "rescript",
+    "res:clean": "rescript clean",
+    "res:dev": "rescript build -w"
+  },
+  "type": "module",
+  "dependencies": {
+    "rescript": "^11.1.3",
+    "@rescript/core": "^1.5.2"
+  }
+}
